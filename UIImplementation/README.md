@@ -18,5 +18,5 @@
 - Material Design
 
 **Resources**
-1. [Android JetPacK Compose Documentation - Official](https://developer.android.com/jetpack/compose/graphics/images/loading)
-2. [Other Resource](https://www.jetpackcompose.net/image-in-jetpack-compose)
+1. [Image Resoiurce - JetPacK Compose Documentation](https://developer.android.com/jetpack/compose/graphics/images/loading)
+2. [Image in JetPack Compose](https://www.jetpackcompose.net/image-in-jetpack-compose)

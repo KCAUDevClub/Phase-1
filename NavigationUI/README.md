@@ -10,3 +10,9 @@
 ![image](https://user-images.githubusercontent.com/77758884/201525267-d769d6aa-a338-40ae-964c-918a0bccc73d.png)
 
 ##### Visuals
+
+
+#### External Resources
+- [Navigating with Compose: Android Documentation](https://developer.android.com/jetpack/compose/navigation)
+- [Navigating in Jetpack Compose Jossi Wolf - Medium Article](https://medium.com/google-developer-experts/navigating-in-jetpack-compose-78c78d365c6a)
+- [Jetpack Compose: Navigation tutorial, Jess Barrientos - DevTo Article](https://dev.to/jbc7ag/jetpack-compose-navigation-tutorial-9en)

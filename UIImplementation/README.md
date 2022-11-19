@@ -16,3 +16,7 @@
 - Screen Navigation
 - State changes/management
 - Material Design
+
+**Resources**
+1. [Android JetPacK Compose Documentation - Official](https://developer.android.com/jetpack/compose/graphics/images/loading)
+2. [Other Resource](https://www.jetpackcompose.net/image-in-jetpack-compose)

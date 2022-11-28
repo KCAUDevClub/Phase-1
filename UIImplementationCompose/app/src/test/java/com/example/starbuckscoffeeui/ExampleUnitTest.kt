@@ -1,4 +1,4 @@
-package com.example.uicompose
+package com.example.starbuckscoffeeui
 
 import org.junit.Test
 

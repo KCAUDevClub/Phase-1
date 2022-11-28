@@ -1,4 +1,4 @@
-package com.example.uicompose.ui.theme
+package com.example.starbuckscoffeeui.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

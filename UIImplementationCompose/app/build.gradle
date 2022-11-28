@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.uicompose'
+    namespace 'com.example.starbuckscoffeeui'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.uicompose"
+        applicationId "com.example.starbuckscoffeeui"
         minSdk 26
         targetSdk 32
         versionCode 1

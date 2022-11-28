@@ -1,4 +1,4 @@
-package com.example.uicompose.ui.theme
+package com.example.starbuckscoffeeui.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
